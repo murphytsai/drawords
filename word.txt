@@ -1,4 +1,4 @@
-abba,3,0
+abba
 acdc
 ace
 acorn
