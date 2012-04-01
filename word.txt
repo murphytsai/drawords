@@ -551,6 +551,7 @@ flush
 fly
 fog
 folder
+follower
 fool
 foot
 football
